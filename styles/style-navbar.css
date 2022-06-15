@@ -82,7 +82,7 @@ body {
     margin: 10% auto 15% auto;
     padding: 20px;
     width: 80%;
-    height: 50%;
+    height: auto;
 }
 
 
@@ -107,7 +107,8 @@ body {
     margin: 0;
 }
 
-#locationDiv, #emailDiv {
+#locationDiv,
+#emailDiv {
     display: flex;
     flex-direction: row;
     column-gap: 3%;
@@ -197,7 +198,8 @@ body {
         font-size: 24px;
     }
 
-    .contactSpan, #careerPos {
+    .contactSpan,
+    #careerPos {
         font-size: 20px;
     }
 }
