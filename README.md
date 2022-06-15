@@ -16,6 +16,7 @@
 ## Technologies
 * Frontend: HTML, CSS, JavaScript
 * Backend: Node.js, Express
+* Hosting: Heroku
 
 <br>
 
